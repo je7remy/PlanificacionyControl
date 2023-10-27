@@ -1,0 +1,4 @@
+Respuesta parcialmente correcta.
+
+Ha seleccionado correctamente 4.
+La respuesta correcta es: Alcance → Contenido detallado y limitaciones o exclusiones de los objetivo del proyecto, Usuario → Serán los que Deban Utilizar el proyecto al su termino, Objetivos → Resultados alcanzados de un proyecto, Cliente → Determina y aprueba los objetivos y tiempo de un proyecto, Equipo → Es el responsable del éxito o fracaso del proyecto, Gerente → Es el responsable del éxito o fracaso del proyecto, Coste → Se requiere de recurso humanos y material para poner en marcha el proyecto, Tiempo → El proyecto tendrá un inicio y un final, Riesgo → En todo proyecto hay incertidumbre para poder alcanzar los objetivos, Calidad → Se requiere de recurso humanos y material para poner en marcha el proyecto
