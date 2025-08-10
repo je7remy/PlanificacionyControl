@@ -1,5 +1,3 @@
----
-
 # 📑 Planificación de Proyectos
 
 > Guía y recursos para organizar, controlar y ejecutar proyectos de forma eficiente.
